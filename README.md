@@ -5,9 +5,9 @@ This project includes a comprehensive:
 - ✅ Test Cases (Excel)
 - 🐞 Bug Report
 
-> which covers
+which covers:
 - login
 - transactions and
 - security features
 
-> for a fintech app, as part of my portfolio to demonstrate manual QA skills.
+for a fintech app, as part of my portfolio to demonstrate manual QA skills.
