@@ -6,8 +6,8 @@ This project includes a comprehensive:
 - 🐞 Bug Report
 
 > which covers
--login
--transactions and
--security features
+- login
+- transactions and
+- security features
 
 > for a fintech app, as part of my portfolio to demonstrate manual QA skills.
